@@ -1,4 +1,3 @@
 #!/usr/bin/env python3
-import sys
-print("Hello appsec world")
-print("python:", sys.version)
+name = input("Enter your name: ").strip()
+print(f"Hello appsec world from @{name}")
