@@ -17,3 +17,5 @@ if __name__ == "__main__":
     typer.run(main)
 
 # comment: entrypoint uses typer.run(main)
+
+# changed in main directly
